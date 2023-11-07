@@ -1,0 +1,13 @@
+.Titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.descricao{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.categoria{
+    background-color: rgb(192, 4, 192);
+    color: white;
+}
